@@ -1,4 +1,3 @@
-Contiene los requerimientos de ejecucion.
 streamlit
 pandas
 numpy
