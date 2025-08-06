@@ -9,6 +9,8 @@ import matplotlib.pyplot as plt
 # Configuración de la página
 st.set_page_config(page_title="Dashboard de Métricas de Trading", layout="wide")
 
+st.sidebar.markdown("#### Creado por: @Carlos Freyberguer")
+
 # Ajuste de estilo global para gráficos
 plt.rcParams.update({
     'font.family': 'sans-serif',
